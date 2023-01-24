@@ -5,16 +5,24 @@
     </head>
 
     <body>
-     <form action="/">
-        <input name="id"/>
+     <form onSubmit="redirectUrl()">
+        <input name="id" id="id_num"/>
         <input type="submit" value="Поиск объекта недвижимости">
      </form>
      
       <script type="text/javascript">
+      function redirectUrl(){
+        var id = document.getElementById("id_num").value; 
+        window.location.replace("https://dreammanor.ru/?id="+id);
+      }
+       
        var url_string =window.location.href; 
        var url = new URL(url_string);
-       var c = url.searchParams.get("id");
-       console.log(c);
+       var id = url.searchParams.get("id");
+       if(id){
+          console.log(id);
+       }
+       
       // window.location.replace("https://rutube.ru/channel/20022262/");
      </script>
     </body>
