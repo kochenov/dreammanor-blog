@@ -1,29 +1,21 @@
- <!DOCTYPE html>
-  <html>
-    <head>
-     <title> Поиск дома в деревне по номеру объекта</title>
-    </head>
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Поиск дома в деревне по номеру объекта</title>
+  </head>
 
-    <body>
-     <form onSubmit="redirectUrl()">
-        <input name="id" id="id_num"/>
-        <input type="submit" value="Поиск объекта недвижимости">
-     </form>
-     
-      <script type="text/javascript">
-      function redirectUrl(){
-        var id = document.getElementById("id_num").value; 
-        window.location.replace("https://dreammanor.ru/?id="+id);
-      }
-       
-       var url_string =window.location.href; 
-       var url = new URL(url_string);
-       var id = url.searchParams.get("id");
-       if(id && isNaN(id) ){
-          console.log(typeof id);
-       }
-       
-      // window.location.replace("https://rutube.ru/channel/20022262/");
-     </script>
-    </body>
-  </html>
+  <body>
+    <div style="display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;">
+    <h1>Поиск дома в деревне но номеру объекта из видео</h1>
+    <form onSubmit="redirectUrl()">
+      <input name="id" id="id_num" />
+      <input type="submit" value="Поиск объекта недвижимости" />
+    </form>
+</div>
+    <script  src="./index.js"></script>
+  </body>
+</html>
