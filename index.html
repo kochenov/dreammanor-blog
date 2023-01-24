@@ -1,14 +1,21 @@
  <!DOCTYPE html>
   <html>
     <head>
-   
+     <title> Поиск дома в деревне по номеру объекта</title>
     </head>
 
     <body>
-
+     <form action="/">
+        <input name="id"/>
+        <input type="submit" value="Поиск объекта недвижимости">
+     </form>
      
       <script type="text/javascript">
-     window.location.replace("https://rutube.ru/channel/20022262/");
+       var url_string =window.location.href; 
+       var url = new URL(url_string);
+       var c = url.searchParams.get("id");
+       console.log(c);
+      // window.location.replace("https://rutube.ru/channel/20022262/");
      </script>
     </body>
   </html>
