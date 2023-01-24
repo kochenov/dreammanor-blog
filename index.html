@@ -19,8 +19,8 @@
        var url_string =window.location.href; 
        var url = new URL(url_string);
        var id = url.searchParams.get("id");
-       if(id){
-          console.log(id);
+       if(id && isNaN(id) ){
+          console.log(typeof id);
        }
        
       // window.location.replace("https://rutube.ru/channel/20022262/");
