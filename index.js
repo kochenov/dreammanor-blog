@@ -1,3 +1,7 @@
+document.querySelector('#navbarSideCollapse').addEventListener('click', () => {
+  document.querySelector('.offcanvas-collapse').classList.toggle('open')
+})
+
 function getJson(id) {
   var xhr = new XMLHttpRequest();
 
