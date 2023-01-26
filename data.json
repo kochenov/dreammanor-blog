@@ -2,7 +2,22 @@
   "links": [
     {
       "id": 51,
-      "link": "https://www.avito.ru/shatsk/doma_dachi_kottedzhi/dom_75m_na_uchastke_34sot._2632915429"
+      "link": "https://www.avito.ru/shatsk/doma_dachi_kottedzhi/dom_75m_na_uchastke_34sot._2632915429",
+      "value_home": 75,
+      "value_earch": 34,
+      "price": 1600000,
+      "adress": "Рязанская область, Шацкий р-н, Кермисинское сельское поселение, с. Кермись, Заречная ул., 39",
+      "region": "Рязанская область",
+      "region_raion": "Шацкий р-н",
+      "region_selo": "с. Кермись",
+      "distancia": "32 км",
+      "gaz": 1,
+      "tualet":0,
+      "water": 0,
+      "stena" : "бревно",
+      "bania" : 1,
+      "video_zen": "https://dzen.ru/embed/vP66HIblFsFw?from_block=partner&from=zen&backoffice=1&mute=1&autoplay=0&tv=1",
+      "url_zen": "https://dzen.ru/video/watch/63cffe3e1025182d2790882f"
     },
     {
       "id": 2,

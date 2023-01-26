@@ -1,6 +1,6 @@
-document.querySelector('#navbarSideCollapse').addEventListener('click', () => {
-  document.querySelector('.offcanvas-collapse').classList.toggle('open')
-})
+document.querySelector("#navbarSideCollapse").addEventListener("click", () => {
+  document.querySelector(".offcanvas-collapse").classList.toggle("open");
+});
 
 function getJson(id) {
   var xhr = new XMLHttpRequest();
@@ -14,22 +14,22 @@ function getJson(id) {
   // handle the response
   xhr.onreadystatechange = function () {
     if (this.readyState == 4 && this.status == 200) {
-        findID(JSON.parse(this.responseText), id);
+      findID(JSON.parse(this.responseText), id);
     }
   };
 }
 
-function findID(json, id){
-    let data = json.links;
-    let res = data.find(o=>o.id == id);
-    if(res){
-        //console.log(res);
-        window.location.replace(res.link);
-    }else{
-        alert("Объекта недвижимости с таким номером нет");
-        window.location.replace("/");
-        return;
-    }
+function findID(json, id) {
+  let data = json.links;
+  let res = data.find((o) => o.id == id);
+  if (res) {
+    //console.log(res);
+    window.location.replace(res.link);
+  } else {
+    alert("Объекта недвижимости с таким номером нет");
+    window.location.replace("/");
+    return;
+  }
 }
 
 function redirectUrl() {
