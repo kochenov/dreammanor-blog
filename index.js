@@ -50,7 +50,6 @@ function getModalVideo(id) {
       
       }
       findAd.innerHTML = `<button type="button"  id="find-ad" class="btn btn-primary" onClick="getJson(${i.id})">Найти объявление</button>`;
-      console.log(i);
     }
   };
 }
