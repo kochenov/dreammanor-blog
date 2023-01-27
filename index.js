@@ -46,7 +46,7 @@ function getModalVideo(id) {
       if(i.video_zen){
         player.innerHTML = `<iframe src="${i.video_zen}?from_block=partner&from=zen&backoffice=1&mute=1&autoplay=1&tv=0" allow="autoplay; fullscreen; accelerometer; gyroscope; picture-in-picture; encrypted-media" frameborder="0" scrolling="no" allowfullscreen=""></iframe>`;
       }else{
-        player.innerHTML = `<iframe width="720" height="405" src="${i.video_rutube}" frameBorder="0" allow="clipboard-write; autoplay" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>  `;
+        player.innerHTML = `<iframe src="${i.video_rutube}" frameBorder="0" allow="clipboard-write; autoplay" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>  `;
       
       }
       findAd.innerHTML = `<button type="button"  id="find-ad" class="btn btn-primary" onClick="getJson(${i.id})">Найти объявление</button>`;
