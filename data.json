@@ -1,6 +1,26 @@
 {
   "links": [
     {
+      "id": 41,
+      "link": "https://www.avito.ru/novoscherbinovskaya/doma_dachi_kottedzhi/dom_682_m_na_uchastke_25_sot._2323387155",
+      "title": "Обзор дома в деревне (Краснадарский край, Ейский р-н, пос. Заводской)",
+      "value_home": 68.2,
+      "value_earch": 25,
+      "price": 1200000,
+      "adress": "Краснодарский край, Ейский р-н, Ейское сельское поселение, пос. Заводской, ул. Гагарина, 25",
+      "region": "Краснадарский край",
+      "region_raion": "Ейский р-н",
+      "region_selo": "пос. Заводскойь",
+      "distancia": 16,
+      "gaz": 1,
+      "tualet": 0,
+      "water": 0,
+      "stena": "",
+      "bania": 1,
+      "video_zen": "https://dzen.ru/embed/vVYnfYlqBbkc",
+      "url_zen": "https://dzen.ru/video/watch/63d418ff4a535f2d8d4a9fda"
+    },
+    {
       "id": 51,
       "link": "https://www.avito.ru/shatsk/doma_dachi_kottedzhi/dom_75m_na_uchastke_34sot._2632915429",
       "title": "Обзор дома в деревне (Рязанская область, Шацкий р-н, Кермисинское сельское поселение, с. Кермись)",
@@ -11,7 +31,7 @@
       "region": "Рязанская область",
       "region_raion": "Шацкий р-н",
       "region_selo": "с. Кермись",
-      "distancia": "32 км",
+      "distancia": 32,
       "gaz": 1,
       "tualet": 0,
       "water": 0,
