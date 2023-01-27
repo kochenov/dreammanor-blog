@@ -46,7 +46,7 @@ function getModalVideo(id) {
       if(i.video_zen){
         player.innerHTML = `<iframe src="${i.video_zen}?from_block=partner&from=zen&backoffice=1&mute=1&autoplay=1&tv=0" allow="autoplay; fullscreen; accelerometer; gyroscope; picture-in-picture; encrypted-media" frameborder="0" scrolling="no" allowfullscreen=""></iframe>`;
       }else{
-        player.innerHTML = `<iframe src="${i.video_rutube}" frameBorder="0" allow="clipboard-write; autoplay" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>  `;
+        player.innerHTML = `<iframe width="720" height="405" src="https://rutube.ru/play/embed/8b1353d5f7eb2ffdf497ac72c14dc353" frameBorder="0" allow="clipboard-write; autoplay" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>  <p><a href="${i.video_rutube}/">Обзор дома в деревне (Тверская область, Андреапольский муниципальный округ, д. Болотово) №12</a> от <a href="//rutube.ru/video/person/20022262/">Усадьба Мечты [Жить в деревне]</a> на <a href="https://rutube.ru/">Rutube•LiST</a>`;
       
       }
       findAd.innerHTML = `<button type="button"  id="find-ad" class="btn btn-primary" onClick="getJson(${i.id})">Найти объявление</button>`;
