@@ -1,6 +1,26 @@
 {
   "links": [
     {
+      "id": 71,
+      "link": "https://www.avito.ru/dmitrievskoe/doma_dachi_kottedzhi/dom_64m_na_uchastke_16sot._2556247074",
+      "title": "Обзор дома в деревне (Ставропольский край, Ипатовский городской округ, село Красная Поляна)",
+      "value_home": 68.2,
+      "value_earch": 25,
+      "price": 526000,
+      "adress": "Ставропольский край, Ипатовский городской округ, село Красная Поляна",
+      "region": "Ставропольский край",
+      "region_raion": "Ипатовский городской округ",
+      "region_selo": "село Красная Поляна",
+      "distancia": 16,
+      "gaz": 1,
+      "tualet": 0,
+      "water": 0,
+      "stena": "",
+      "bania": 1,
+      "video_zen": "https://dzen.ru/embed/v-q9wp7Ciwz0",
+      "url_zen": "https://dzen.ru/video/watch/63d4c27f0d92ef0c101c5a09"
+    },
+    {
       "id": 41,
       "link": "https://www.avito.ru/novoscherbinovskaya/doma_dachi_kottedzhi/dom_682_m_na_uchastke_25_sot._2323387155",
       "title": "Обзор дома в деревне (Краснадарский край, Ейский р-н, пос. Заводской)",
@@ -10,7 +30,7 @@
       "adress": "Краснодарский край, Ейский р-н, Ейское сельское поселение, пос. Заводской, ул. Гагарина, 25",
       "region": "Краснадарский край",
       "region_raion": "Ейский р-н",
-      "region_selo": "пос. Заводскойь",
+      "region_selo": "пос. Заводской",
       "distancia": 16,
       "gaz": 1,
       "tualet": 0,
