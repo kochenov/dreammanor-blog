@@ -1,6 +1,26 @@
 {
   "links": [
     {
+      "id": 232,
+      "link": "https://www.avito.ru/bolshaya_murta/doma_dachi_kottedzhi/dom_644m_na_uchastke_145sot._1863612741",
+      "title": "Обзор дома в деревне на Юге (Красноярский край, Большемуртинский р-н, с. Межово)",
+      "value_home": 60,
+      "value_earch": 500,
+      "price": 500000,
+      "adress": "Курганская область, Петуховский муниципальный округ, село Большое Приютное, улица Сергея Баева",
+      "region": "Курганская область",
+      "region_raion": "Петуховский муниципальный округ",
+      "region_selo": "село Большое Приютное",
+      "distancia": 16,
+      "gaz": 1,
+      "tualet": 0,
+      "water": 0,
+      "stena": "",
+      "bania": 1,
+      "video_zen": "https://dzen.ru/embed/vK6ooD17lSyo",
+      "url_zen": "https://dzen.ru/video/watch/63d61f7242bcb024578aabf2"
+    },
+    {
       "id": 235,
       "link": "https://www.avito.ru/verhneuralsk/doma_dachi_kottedzhi/dom_75m_na_uchastke_40sot._1861300630",
       "title": "Обзор дома в деревне (Челябинская область, Верхнеуральский р-н, с. Большой Бугодак)",
