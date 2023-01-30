@@ -1,6 +1,26 @@
 {
   "links": [
     {
+      "id": 198,
+      "link": "https://www.avito.ru/skopin/doma_dachi_kottedzhi/dom_92_m_na_uchastke_148_sot._2282715050",
+      "title": "Обзор дома в деревне (Рязанская область, Скопинский р-н, пос. городского типа Павелец)",
+      "value_home": 60,
+      "value_earch": 500,
+      "price": 500000,
+      "adress": "Курганская область, Петуховский муниципальный округ, село Большое Приютное, улица Сергея Баева",
+      "region": "Курганская область",
+      "region_raion": "Петуховский муниципальный округ",
+      "region_selo": "село Большое Приютное",
+      "distancia": 16,
+      "gaz": 1,
+      "tualet": 0,
+      "water": 0,
+      "stena": "",
+      "bania": 1,
+      "video_zen": "https://dzen.ru/embed/vt5MN2PncH2g",
+      "url_zen": "https://dzen.ru/video/watch/63d7eac9e1fddd4e299dc453"
+    },
+    {
       "id": 209,
       "link": "https://www.avito.ru/kromy/doma_dachi_kottedzhi/dom_78m_na_uchastke_41sot._1971907066",
       "title": "Обзор дома в деревне (Орловская область, Кромской р-н, пос. Шоссе)",
