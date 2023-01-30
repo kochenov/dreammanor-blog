@@ -1,6 +1,26 @@
 {
   "links": [
     {
+      "id": 209,
+      "link": "https://www.avito.ru/kromy/doma_dachi_kottedzhi/dom_78m_na_uchastke_41sot._1971907066",
+      "title": "Обзор дома в деревне (Орловская область, Кромской р-н, пос. Шоссе)",
+      "value_home": 60,
+      "value_earch": 500,
+      "price": 500000,
+      "adress": "Курганская область, Петуховский муниципальный округ, село Большое Приютное, улица Сергея Баева",
+      "region": "Курганская область",
+      "region_raion": "Петуховский муниципальный округ",
+      "region_selo": "село Большое Приютное",
+      "distancia": 16,
+      "gaz": 1,
+      "tualet": 0,
+      "water": 0,
+      "stena": "",
+      "bania": 1,
+      "video_zen": "https://dzen.ru/embed/v38T0Wd0eui4",
+      "url_zen": "https://dzen.ru/video/watch/63d77536ecb576593c2ea191"
+    },
+    {
       "id": 210,
       "link": "https://www.avito.ru/raevskiy/doma_dachi_kottedzhi/dom_100m_na_uchastke_16sot._2437998984",
       "title": "Обзор дома в деревне (Республика Башкортостан, Альшеевский р-н, с. Шафраново)",
