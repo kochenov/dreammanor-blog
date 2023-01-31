@@ -1,5 +1,26 @@
 {
   "links": [
+
+    {
+      "id": 253,
+      "link": "https://www.avito.ru/russkiy_kameshkir/doma_dachi_kottedzhi/dom_100_m_na_uchastke_15_sot._2186877283",
+      "title": "Обзор дома в деревне (Пензенская область, Кузнецкий р-н, рабочий пос. Верхозим)",
+      "value_home": 60,
+      "value_earch": 500,
+      "price": 500000,
+      "adress": "Курганская область, Петуховский муниципальный округ, село Большое Приютное, улица Сергея Баева",
+      "region": "Курганская область",
+      "region_raion": "Петуховский муниципальный округ",
+      "region_selo": "село Большое Приютное",
+      "distancia": 16,
+      "gaz": 1,
+      "tualet": 0,
+      "water": 0,
+      "stena": "",
+      "bania": 1,
+      "video_zen": "https://dzen.ru/embed/vs1CVYwxvhXQ",
+      "url_zen": "https://dzen.ru/video/watch/63d8ff0bd02c4f5b1bbcea7d"
+    },
     {
       "id": 194,
       "link": "https://www.avito.ru/grivenskaya/doma_dachi_kottedzhi/dom_101_m_na_uchastke_177_sot._2600355594",
