@@ -1,5 +1,25 @@
 {
   "links": [
+     {
+      "id": 184,
+      "link": "https://www.avito.ru/mirskoy/doma_dachi_kottedzhi/dom_112m_na_uchastke_20sot._2484764580",
+      "title": "Обзор дома в деревне (Краснодарский край, Тбилисский район, Ловлинское сельское поселение, станица Ловлинская)",
+      "value_home": 60,
+      "value_earch": 500,
+      "price": 500000,
+      "adress": "Курганская область, Петуховский муниципальный округ, село Большое Приютное, улица Сергея Баева",
+      "region": "Курганская область",
+      "region_raion": "Петуховский муниципальный округ",
+      "region_selo": "село Большое Приютное",
+      "distancia": 16,
+      "gaz": 1,
+      "tualet": 0,
+      "water": 0,
+      "stena": "",
+      "bania": 1,
+      "video_zen": "https://dzen.ru/embed/v8JnXprgXCHw",
+      "url_zen": "https://dzen.ru/video/watch/63dca80ba92a6b1a090c10f3"
+    },
     {
       "id": 250,
       "link": "https://www.avito.ru/konosha/doma_dachi_kottedzhi/dom_575m_na_uchastke_44sot._2341565804",
