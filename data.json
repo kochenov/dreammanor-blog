@@ -1,5 +1,25 @@
 {
   "links": [
+    {
+      "id": 181,
+      "link": "https://www.avito.ru/krasnaya_gorbatka/doma_dachi_kottedzhi/dom_200_m_na_uchastke_38_sot._2122944872",
+      "title": "Обзор дома в деревне ( Владимирская область, Муромский р-н, д. Федорково)",
+      "value_home": 60,
+      "value_earch": 500,
+      "price": 500000,
+      "adress": "Курганская область, Петуховский муниципальный округ, село Большое Приютное, улица Сергея Баева",
+      "region": "Курганская область",
+      "region_raion": "Петуховский муниципальный округ",
+      "region_selo": "село Большое Приютное",
+      "distancia": 16,
+      "gaz": 1,
+      "tualet": 0,
+      "water": 0,
+      "stena": "",
+      "bania": 1,
+      "video_zen": "https://dzen.ru/embed/vWTrHbG6Jr1U",
+      "url_zen": "https://dzen.ru/video/watch/63dcc9454ed76929f2f0c325"
+    },
      {
       "id": 184,
       "link": "https://www.avito.ru/mirskoy/doma_dachi_kottedzhi/dom_112m_na_uchastke_20sot._2484764580",
